@@ -1,4 +1,4 @@
-# Halo, saya Zidnia Ilma Arifa 👋
+# Halo, saya Zidnia Ilma Arifa 
 
 Mahasiswa **Teknik Informatika** di UIN Maulana Malik Ibrahim Malang yang berminat pada **analisis data** dan **business intelligence**.
 
