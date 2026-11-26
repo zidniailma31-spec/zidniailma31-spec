@@ -4,7 +4,7 @@ Mahasiswa **Teknik Informatika** di UIN Maulana Malik Ibrahim Malang yang bermin
 
 Saya senang mengolah data menjadi informasi yang membantu pengambilan keputusan, mulai dari merancang database, menganalisis data dengan statistik dan machine learning, hingga menyusun laporan hasil analisis.
 
-## 📂 Proyek Unggulan
+## Proyek Unggulan
 
 | Proyek | Deskripsi | Tools |
 |---|---|---|
@@ -12,13 +12,13 @@ Saya senang mengolah data menjadi informasi yang membantu pengambilan keputusan,
 | [Database Perpustakaan SQL](https://github.com/zidniailma31-spec/database-perpustakaan-sql) | Perancangan database relasional dan 7 query analisis untuk sistem peminjaman buku. | MySQL, SQL, ERD |
 | [Analisis Adopsi Telemedicine](https://github.com/zidniailma31-spec/analisis-adopsi-telemedicine) | Regresi linear berganda untuk menguji faktor yang memengaruhi adopsi telemedicine. | Jamovi, Statistik |
 
-## 🛠️ Keterampilan
+## Keterampilan
 
 - **Analisis data:** Excel/Google Sheets, Jamovi, Python (dasar)
 - **Database:** MySQL, phpMyAdmin, perancangan ERD
 - **Pengembangan:** PHP, Dart/Flutter, Git/GitHub
 - **Sedang dipelajari:** Power BI, Pandas, SQL lanjutan
 
-## 📫 Kontak
+## Kontak
 
 - Email: 240605110126@student.uin-malang.ac.id
